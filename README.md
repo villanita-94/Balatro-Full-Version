@@ -270,4 +270,4 @@ This repository serves as the official landing page for Balatro. The software is
 **Get the most recent version of Balatro today!**
 
 ---
-**Last updated:** 2026-10-10 23:16:10 UTC
+**Last updated:** 2026-10-11 04:17:12 UTC
